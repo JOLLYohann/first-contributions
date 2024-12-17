@@ -1626,4 +1626,4 @@
 - [brav68e] (https://github.com/Brav68e)
 - [psikyy] (https://github.com/Psikyy)
 - [Taumeh] (https://github.com/taumehh)
-  
+- [Yohann JOLLY](https://github.com/JOLLYohann)
